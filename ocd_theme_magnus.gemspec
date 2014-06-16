@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = OcdThemeMagnus::VERSION
   s.authors     = ["Jeremy Ward"]
   s.email       = ["jeremy.ward@digital-ocd.com"]
-  s.homepage    = "oc-digital.co"
+  s.homepage    = "http://oc-digital.co"
   s.summary     = "OC Digital Theme: Magnus"
   s.description = "OC Digital Theme: Magnus"
   s.license     = "MIT"
